@@ -11,7 +11,7 @@ Relevant [Vapi docs](https://docs.vapi.ai/outbound_call_python)
 
 ## Steps
 
-1. Register @ [twilio](https://www.twilio.com/en-us) to get a free trial number
+1. Register @ [twilio](https://www.twilio.com/en-us) to get a free trial number + some free credits.
 2. Register @ [Vapi](https://vapi.ai/) for free - you get $10 free credits too.
 3. In Vapi, under [Dashboard > Phone Numbers](https://dashboard.vapi.ai/phone-numbers), import the free trial number. After importing, you'll see a UUID (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). You'll need this later.
    
